@@ -1,0 +1,48 @@
+Uri: https://www.gosuslugi.ru/covid-cert/verify/9780000042168216?lang=ru&ck=56724f1fb4ed1d9a730e3933ca8398a4
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-cert\verify\9780000042168216.html
+Content Type: text/html
+
+Uri: https://gu-st.ru/st/img/favicon.ico
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\st\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://gu-st.ru/htdocs/img/icon/iphone/ico120.png?fh=45fd24f8b8236cd7dc4febdb102f0863
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\htdocs\img\icon\iphone\ico120.png
+Content Type: image/png
+
+Uri: https://gu-st.ru/htdocs/img/icon/iphone/ico76.png?fh=5eecaf9aaa4d363c66b5eb0a78441e1b
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\htdocs\img\icon\iphone\ico76.png
+Content Type: image/png
+
+Uri: https://gu-st.ru/htdocs/img/icon/iphone/ico152.png?fh=2da67c8cb6b40fa1506da07cee067cc9
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\htdocs\img\icon\iphone\ico152.png
+Content Type: image/png
+
+Uri: https://gu-st.ru/covid-web-st/static-pages-assets/covid-cert/index.f0e278202328d749f21f.min.css
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-web-st\static-pages-assets\covid-cert\index.f0e278202328d749f21f.min.css
+Content Type: text/css
+
+Uri: https://gu-st.ru/covid-web-st/static-pages-assets/covid-cert/index.90f20196c48176d6fa08.min.js
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-web-st\static-pages-assets\covid-cert\index.90f20196c48176d6fa08.min.js
+Content Type: application/javascript
+
+Uri: https://gu-st.ru/covid-web-st/static-pages-assets/Lato-Regular.bb882f4771ef3a86e3a1.woff2
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-web-st\static-pages-assets\Lato-Regular.bb882f4771ef3a86e3a1.woff2
+Content Type: application/octet-stream
+
+Uri: https://gu-st.ru/covid-web-st/static-pages-assets/Lato-Bold.39775d377afbc753c1d1.woff2
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-web-st\static-pages-assets\Lato-Bold.39775d377afbc753c1d1.woff2
+Content Type: application/octet-stream
+
+Uri: https://gu-st.ru/covid-web-st/static-pages-assets/HEX_blue.e0544782cd99d0fba77b.svg
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-web-st\static-pages-assets\HEX_blue.e0544782cd99d0fba77b.svg
+Content Type: image/svg+xml
+
+Uri: https://gu-st.ru/covid-web-st/static-pages-assets/HEX.d47a7cda205691b07950.svg
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-web-st\static-pages-assets\HEX.d47a7cda205691b07950.svg
+Content Type: image/svg+xml
+
+Uri: https://gu-st.ru/covid-web-st/static-pages-assets/gos_logo_mobile.9ea844b130533f5a6099.svg
+File Name: D:\Загрузки\qr\www.gosuslugi.ru\covid-web-st\static-pages-assets\gos_logo_mobile.9ea844b130533f5a6099.svg
+Content Type: image/svg+xml
+
